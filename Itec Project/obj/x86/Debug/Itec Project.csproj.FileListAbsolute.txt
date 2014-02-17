@@ -1,0 +1,63 @@
+I:\Itec Project - empty\Itec Project\obj\x86\Debug\Itec Project.csprojResolveAssemblyReference.cache
+I:\Itec Project - empty\Itec Project\obj\x86\Debug\Itec_Project.Form1.resources
+I:\Itec Project - empty\Itec Project\obj\x86\Debug\Itec_Project.Properties.Resources.resources
+I:\Itec Project - empty\Itec Project\obj\x86\Debug\Itec Project.csproj.GenerateResource.Cache
+I:\Itec Project - empty\Itec Project\bin\Debug\Itec Project.exe.config
+I:\Itec Project - empty\Itec Project\bin\Debug\Itec Project.exe
+I:\Itec Project - empty\Itec Project\bin\Debug\Itec Project.pdb
+I:\Itec Project - empty\Itec Project\bin\Debug\EntityFramework.dll
+I:\Itec Project - empty\Itec Project\bin\Debug\EntityFramework.xml
+I:\Itec Project - empty\Itec Project\obj\x86\Debug\Itec Project.exe
+I:\Itec Project - empty\Itec Project\obj\x86\Debug\Itec Project.pdb
+I:\Itec Project - empty\Itec Project\obj\x86\Debug\Itec_Project.Migrations.InitialConfig.resources
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\bin\Debug\Itec Project.exe.config
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec Project.exe
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec Project.pdb
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec Project.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Form1.resources
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec Project.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\bin\Debug\Itec Project.exe
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\bin\Debug\Itec Project.pdb
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\bin\Debug\bulk_email_sender.sdf
+C:\Users\Stefan\Desktop\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Migrations.InitialConfig.resources
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\bin\Debug\Itec Project.exe.config
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\obj\x86\Debug\Itec Project.exe
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\obj\x86\Debug\Itec Project.pdb
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\bin\Debug\bulk_email_sender.sdf
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\bin\Debug\Itec Project.exe
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\bin\Debug\Itec Project.pdb
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\obj\x86\Debug\Itec Project.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\obj\x86\Debug\Itec_Project.Form1.resources
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\obj\x86\Debug\Itec_Project.Migrations.InitialConfig.resources
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\obj\x86\Debug\Itec_Project.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Itec Project - working EF [2013.04.12 16.32]\Itec Project\obj\x86\Debug\Itec Project.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\bin\Debug\Itec Project.exe.config
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec Project.exe
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec Project.pdb
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\bin\Debug\bulk_email_sender.sdf
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\bin\Debug\Itec Project.exe
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\bin\Debug\Itec Project.pdb
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec Project.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Migrations.InitialConfig.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Properties.Resources.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec Project.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.MainForm.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.AttachmentsListForm.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Migrations.UpdateSessions.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Migrations.ReUpdateSessions.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Migrations.NonRequiredForSubjMess.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Migrations.RemovedSessionAttachments.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.GetStringForm.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Migrations.AddedSchedule.resources
+C:\Users\Stefan\Desktop\itec\Itec Project - working EF\Itec Project\obj\x86\Debug\Itec_Project.Remote.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\Itec Project - Two Men Studio\Itec Project - Two Men Studio\Itec Project\bin\Debug\Itec Project.exe.config
+C:\Users\Alexandru\Desktop\BrainStorm Studios\Itec Project - Two Men Studio\Itec Project - Two Men Studio\Itec Project\obj\x86\Debug\Itec Project.exe
+C:\Users\Alexandru\Desktop\BrainStorm Studios\Itec Project - Two Men Studio\Itec Project - Two Men Studio\Itec Project\obj\x86\Debug\Itec Project.pdb
